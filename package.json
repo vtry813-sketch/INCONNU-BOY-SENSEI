@@ -11,10 +11,11 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.8.0",
-    "mongodb": "^5.0.0"
-  },
-  "devDependencies": {
+    "mongodb": "^5.0.0",
     "@vitejs/plugin-react": "^4.0.0",
     "vite": "^4.3.0"
+  },
+  "engines": {
+    "node": ">=18"
   }
 }
